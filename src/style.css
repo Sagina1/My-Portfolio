@@ -1,0 +1,34 @@
+body{
+    background-color: antiquewhite;
+}    
+section{
+    background-color: aqua;
+}    
+.hero{
+    background-color: aquamarine;
+}
+nav{display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    width: 500px;
+    justify-content:space-around;
+    font-size:25px;
+}
+.hero.area
+.hero-text{
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+button{width: 200px;
+       height: 55px;
+       border-radius: 30px;
+       background-color: beige;
+       text-align: center;
+       font-size: 30px;
+       padding-top: 5px;
+       margin-top: 200px;
+
+}
